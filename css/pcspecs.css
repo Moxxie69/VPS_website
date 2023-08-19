@@ -1,0 +1,15 @@
+/*Oui je sais j'ai un setup de merde. Made by Moxxie*/
+@font-face {
+    font-family: CascadiaMono;
+    src: url(../fonts/CascadiaMono.ttf);
+  }
+  
+  body {
+    font-family: CascadiaMono;
+    background-color: #000;
+    color: white;
+  }
+  
+.cyan {
+    color: cyan;
+}

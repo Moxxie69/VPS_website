@@ -1,0 +1,47 @@
+/*Le fameux css de l'acceuil. Made by Moxxie*/
+@font-face {
+  font-family: CascadiaMono;
+  src: url(../fonts/CascadiaMono.ttf);
+}
+
+body {
+  font-family: CascadiaMono;
+  background-color: #000;
+  color: white;
+}
+
+.a {
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 1px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    font-family: CascadiaMono;
+  }
+  
+  .aboutme {
+    background-color: black; 
+    color: white; 
+    border: 2px solid #8400ff;
+  }
+  
+  .aboutme:hover {
+    background-color: #8400ff;
+    color: black;
+  }
+
+  .myspecs {
+    background-color: black; 
+    color: white; 
+    border: 2px solid #0a84d4;
+  }
+  
+  .myspecs:hover {
+    background-color: #0a84d4;
+    color: black;
+  }
